@@ -23,7 +23,7 @@
             <h2><span style="filter: hue-rotate(15deg)">📫</span> How to Get in Touch with me</h2>
             <ul>
                 <li>LinkedIn: <a href="https://www.linkedin.com/in/gabrieldsalvarenga/">LinkedIn</a></li>
-                <li>E-mail: <a href="mailto:gabriel.dsalvarenga@gmail.com">E-mail</a></li>
+                <li>E-mail: <a href="mailto:shturno@proton.me">E-mail</a></li>
             </ul>
             <h2>📈 Github Statistics</h2>
             <div>
