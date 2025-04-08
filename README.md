@@ -1,51 +1,76 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body style="width: 1200px">
+# 🙋‍♂️ Hi, welcome to my repository!
+
+## 🌱 Currently studying:
+- Information Systems  
+- Cybersecurity  
 
 
+## 🧰 Tech Stack & Tools:
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php" />
+  <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql" />
+  <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3" />
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Shell-05122A?style=flat&logo=gnubash" />
 
-<table>
-    <tr>
-        <td class="image-table" style="width: 1000px">
-            <img src="readme-profile.jpg" alt="Github README Profile" style="min-width: 1000px; width: 1000px; height: 900px; border-radius: 8px;">
-        </td>
-        <td class="info-table" style="width: 200px">
-            <h1> <span style="filter: hue-rotate(180deg)">👋</span> Hi, wellcome to my repository!</h1>
-            <h2> <span style="filter: hue-rotate(150deg)">🌱</span> Currently Studying</h2>
-            <ul>
-                <li>Information Systems</li>
-                <li>Cybersecurity</li>
-            </ul>
-            <h2><span style="filter: hue-rotate(15deg)">📫</span> How to Get in Touch with me</h2>
-            <ul>
-                <li>LinkedIn: <a href="https://www.linkedin.com/in/gabrieldsalvarenga/">LinkedIn</a></li>
-                <li>E-mail: <a href="mailto:shturno@proton.me">E-mail</a></li>
-            </ul>
-            <h2>📈 Github Statistics</h2>
-            <div>
-                <a href="https://github.com/shturno/shturno">
-                    <img height="100" align="center" src="https://github-readme-stats.vercel.app/api?username=shturno&show_icons=true&theme=transparent" />
-                </a>
-                <a href="https://github.com/shturno/shturno">
-                    <img height="100" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shturno&hide_progress=true" />
-                </a>
-            </div>
-            <h2> <span style="filter: hue-rotate(180deg)">⚡</span> Curiosities</h2>
-            <ul>
-                <li>I've been in and out of the IT world for a few years now, but I always end up coming back to it because it's one of my obsessions. I can't even count how many times I've pulled all-nighters coding some random project, but it's such a rush when I finally get it done. Lately, I'm leaning more towards cybersecurity, learning about scans and enumerations and loving every minute of it.</li>
-                <li>As a neurodivergent person (autistic with ADHD), since my teenage years I have my hyperfixations in the IT field, and quite often, I lose track of time and end up spending days on the same project without even realizing it. I still can't say if this is a quality or a flaw.</li>
-            </ul>
-            <div align="center">
-                Made by @shturno
-            </div>
-        </td>
-    </tr>
-</table>
+  <!-- Frontend / Frameworks -->
+  <img src="https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vuedotjs" />
+  <img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite" />
+  <img src="https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel" />
+
+  <!-- Backend / Fullstack -->
+  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs" />
+
+  <!-- DevOps / Cloud -->
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure" />
+  <img src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker" />
+  <img src="https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=nginx" />
+
+  <!-- Cybersecurity -->
+  <img src="https://img.shields.io/badge/-Nmap-05122A?style=flat&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark" />
+  <img src="https://img.shields.io/badge/-Burp%20Suite-05122A?style=flat&logo=burpsuite" />
+  <img src="https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kalilinux" />
+  <img src="https://img.shields.io/badge/-Metasploit-05122A?style=flat&logo=metasploit" />
+  <img src="https://img.shields.io/badge/-Shodan-05122A?style=flat&logo=shodan" />
+
+  <!-- API / Productivity -->
+  <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman" />
+
+  <!-- Terminals / CLI -->
+  <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" />
+  <img src="https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash" />
+  <img src="https://img.shields.io/badge/-Zsh-05122A?style=flat&logo=zsh" />
+
+  <!-- IDEs -->
+  <img src="https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode" />
+</p>
+
+## 📈 GitHub Stats:
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=shturno&show_icons=true&theme=transparent" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shturno&layout=compact&hide_progress=true" />
+</p>
 
 
-</body>
-</html>
+## 📢 How to get in touch:
+- [LinkedIn profile](https://www.linkedin.com/in/gabrieldsalvarenga/)  
+- [Contact me via e-mail](mailto:shturno@proton.me)
+
+
+## ⚡ Fun facts:
+- I've been in and out of the IT world, but I always come back to it — it's one of my passions.  
+- As an autistic person with ADHD, I hyperfocus a lot. Sometimes I spend days coding the same project without even realizing it.  
+- Lately, I’ve been diving into cybersecurity — vulnerability scans, network enumeration, and I'm loving it.
+
+<div align="center">
+  Made with 💻 by @shturno
+</div>
+
