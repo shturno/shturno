@@ -8,6 +8,8 @@
 ## 🧰 Tech Stack & Tools:
 <p align="left">
   <!-- Languages -->
+  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java" />
+  <img src="https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring" />
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php" />
   <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql" />
@@ -53,16 +55,10 @@
   <img src="https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode" />
 </p>
 
-## 📈 GitHub Stats:
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=shturno&show_icons=true&theme=transparent" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shturno&layout=compact&hide_progress=true" />
-</p>
-
 
 ## 📢 How to get in touch:
-- [LinkedIn profile](https://www.linkedin.com/in/gabrieldsalvarenga/)  
-- [Contact me via e-mail](mailto:shturno@proton.me)
+- [LinkedIn profile](https://www.linkedin.com/in/kaialvarenga;)  
+- [Contact me via e-mail](mailto:kai.s.alvarenga@gmail.com)
 
 
 ## ⚡ Fun facts:
