@@ -68,6 +68,6 @@ const profile = {
 
 <div align="center">
   <sub>
-    Connect: <a href="https://linkedin.com/in/kaialvarenga">LinkedIn</a> -  <a href="mailto:kai.s.alvarenga">Email</a>
+    Connect: <a href="https://linkedin.com/in/gabrielsalvarenga">LinkedIn</a> -  <a href="mailto:gabriel.dsalvarenga@gmail.com">Email</a>
   </sub>
 </div>
